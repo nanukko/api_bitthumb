@@ -1,1 +1,1 @@
-# api_bitthumb
+# api_text_mining_2019spring
